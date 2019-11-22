@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">firebase</string>
+    <string name="gg_client_web_id">498358749808-1thhqksmd1tlh0gtn2a6258u1b58qnap.apps.googleusercontent.com</string>
+    <string name="gg_client_web_secret">Ge4zuSgmx2Fp_EVoojVwYBSH</string>
 </resources>
